@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<!-- saved from url=(0041)https://www.redital.com/journalgenerator/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Redital - The Journal Prompt Generator for journals and blogs</title>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+		<link rel="stylesheet" href="./Redital - The Journal Prompt Generator for journals and blogs_files/main.css">
+	<style type="text/css">#mc_embed_signup input.mce_inline_error { border-color:#6B0505; } #mc_embed_signup div.mce_inline_error { margin: 0 0 1em 0; padding: 5px 10px; background-color:#6B0505; font-weight: bold; z-index: 1; color:#fff; }</style><style>@media print {#ghostery-tracker-tally {display:none !important}}</style></head>
+	<body class="" style="zoom: 1;">
+		<div id="fb-root"></div>
+<script async="" src="./Redital - The Journal Prompt Generator for journals and blogs_files/analytics.js"></script><script id="facebook-jssdk" src="./Redital - The Journal Prompt Generator for journals and blogs_files/sdk.js"></script><script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6&appId=132179023506617";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				
+
+			<!-- Main -->
+				<section id="main" class="container">
+					
+					<div class="box"><div class="row">
+							<div class="row-6 row-12-mobilep">
+							<button id="butt">Generate topic!</button>
+			  				<div id="disp">A hardship that I’ve overcome that I’m proud of is…</div>
+
+					 <script>
+						    // javascript goes here      
+						    var sentcs = ["Write about a time you felt sad recently.", "What is something you need to overcome in your career to advance to the next level?", "Which time period would you most like to live in and why?.", "List your goals for the next 7 days.", "Write a note that you want to look back on next New Years Eve", "5 things you can't live without and why...", "Write about something that inspires you.", "Which 5 subjects could you talk to somebody endlessly about?", "Write about a dangerous situation you've been in.", "Write about your favourite city. What do you love about it?", "How has social media affected your life?", "Your top five short term goals.", "Your top five long term goals.", "Nobody knows this but...", "The biggest lie you ever told.", "Your biggest regret.", "What was your last dream about?", "Three things you would do if you weren't afraid.", "If you could meet any fictional character, who would it be?", "What book setting would you like to visit if you could?", "What made you feel bad this week?", "What one thing would you change about your life?", "What do you think is your biggest flaw?","Your view on society today.","Which 3 things attract you to someone?","A hardship that I’ve overcome that I’m proud of is…","Which three foods best describe your personality?","List 5 things you are greatful for","If you were lost in dark scary woods with no phone, what would you do?","Cut out an article from a newspaper or magazine and write something about it","Finish this sentence: My negative self-talk usually sounds like...","If I had to set aside one hour each week for a new hobby, what would I cut out of my week?","If my worst fears were to come true, what would I do? Would I be able to handle that?","What are my anxieties about? How are my anxieties rational or irrational?","What do people come to me for advice or help with and how can I use that to my advantage?","What have I been consuming a lot of lately? Where is the majority of my energy and attention going?","Which unique traits make up my identity?","What do I need more of in my life?"  ];
+
+						    butt.addEventListener("click", function() {
+						      disp.innerHTML = sentcs[Math.floor(Math.random() * 38)];
+						    });
+					</script>
+						  <br><br><br>
+							</div>
+							<br>&nbsp;
+							
+							
+						</div>
+					</div>
+				</section>
+
+			<!-- Footer -->
+				
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="./Redital - The Journal Prompt Generator for journals and blogs_files/jquery.min.js"></script>
+			<script src="./Redital - The Journal Prompt Generator for journals and blogs_files/jquery.dropotron.min.js"></script>
+			<script src="./Redital - The Journal Prompt Generator for journals and blogs_files/jquery.scrollex.min.js"></script>
+			<script src="./Redital - The Journal Prompt Generator for journals and blogs_files/browser.min.js"></script>
+			<script src="./Redital - The Journal Prompt Generator for journals and blogs_files/breakpoints.min.js"></script>
+			<script src="./Redital - The Journal Prompt Generator for journals and blogs_files/util.js"></script>
+			<script src="./Redital - The Journal Prompt Generator for journals and blogs_files/main.js"></script><ul class="dropotron level-0" style="user-select: none; display: none; position: absolute; z-index: 1000;">
+									<li style="white-space: nowrap;"><a href="https://www.redital.com/publishing/" style="display: block;">Redital Publishing</a></li>
+									<li style="white-space: nowrap;"><a href="https://www.redital.com/publishing/descendantoftheelders.html" style="display: block;">Descendent of the Elders</a></li>
+									<li style="white-space: nowrap;"><a href="https://www.redital.com/publishing/starfade.html" style="display: block;">Starfade Book</a></li>
+								<!--	<li>
+										<a href="#">Submenu</a>
+										<ul>
+											<li><a href="#">Option One</a></li>
+											<li><a href="#">Option Two</a></li>
+											<li><a href="#">Option Three</a></li>
+											<li><a href="#">Option Four</a></li>
+										</ul>
+									</li> -->
+								</ul><div id="navButton"><a href="https://www.redital.com/journalgenerator/#navPanel" class="toggle"></a></div><div id="navPanel"><nav><a class="link depth-0" href="https://www.redital.com/" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><span class="indent-0"></span>Blog</a><a class="link depth-0" href="https://www.redital.com/journalgenerator/#" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><span class="indent-0"></span>Other</a><a class="link depth-1" href="https://www.redital.com/publishing/" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><span class="indent-1"></span>Redital Publishing</a><a class="link depth-1" href="https://www.redital.com/publishing/descendantoftheelders.html" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><span class="indent-1"></span>Descendent of the Elders</a><a class="link depth-1" href="https://www.redital.com/publishing/starfade.html" style="-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><span class="indent-1"></span>Starfade Book</a></nav></div>
+			<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66689332-1', 'auto');
+  ga('send', 'pageview');
+
+</script> 
+
+	
+</body></html>
